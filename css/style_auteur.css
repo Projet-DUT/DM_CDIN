@@ -1,0 +1,41 @@
+
+/******************LE BANDEAU DE NAVIGUATION******************/
+#titre3 a
+{
+	color: brown;
+}
+/*************************************************************/
+
+
+
+/********************TABLEAU BLIBLIOGRAPHIE*******************/
+th,td
+{
+	padding: 1em;
+	padding-right: 3em;
+}
+
+table
+{
+	margin-top: 6em;
+	text-align: left;
+	background-color: #efe3d0;
+	border-radius: 0.5em;
+	float: left;
+	margin: 2em;
+}
+
+caption
+{
+	text-align: left;
+	font-size: 1.3em;
+}
+/*************************************************************/
+
+img
+{
+	float: right;
+	border-radius: 2px;
+	margin-left:  1em;
+	margin-bottom:  1em;
+}

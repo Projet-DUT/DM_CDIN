@@ -1,0 +1,45 @@
+
+/******************LE BANDEAU DE NAVIGUATION******************/
+#titre2 a
+{
+	color: brown;
+}
+/*************************************************************/
+
+
+/*************************LA CITATION*************************/
+.extrait, cite
+{
+	width: 80%;
+	margin: auto;
+	padding: 2em;
+}
+
+.corps
+{
+	position: relative;
+	top: 18px;
+}
+
+#lettrine
+{
+	font-size: 5em;
+	float: left;
+	color: brown;
+}
+blockquote
+{
+	letter-spacing: 0.05em;
+	word-spacing: 0.5em;
+	font-size: 1.2em;
+	text-align: justify;
+}
+
+cite
+{
+	margin-left: 10px; /* aligne la source sur la droite du texte */
+}
+/************************************************************/
+
+
+
